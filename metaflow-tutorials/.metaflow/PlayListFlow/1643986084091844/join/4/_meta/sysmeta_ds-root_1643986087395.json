@@ -1,0 +1,1 @@
+{"flow_id": "PlayListFlow", "run_number": "1643986084091844", "step_name": "join", "task_id": "4", "field_name": "ds-root", "type": "ds-root", "value": "/Users/swatts/repos/metaflow-tutorial/metaflow-tutorials/.metaflow", "tags": ["attempt_id:0"], "user_name": "swatts", "ts_epoch": 1643986087395}
